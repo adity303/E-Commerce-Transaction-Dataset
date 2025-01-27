@@ -5,6 +5,18 @@ This project focuses on analyzing and modeling transactional data from an eComme
 Project Structure
 The project is divided into the following key tasks:
 
+Reference Image:
+![Image](https://github.com/user-attachments/assets/574a3ad0-1f4e-46d2-9bba-44c01bba9821)
+
+![Image](https://github.com/user-attachments/assets/817c5b11-8a86-4e65-80cb-3836767bdc0d)
+
+![Image](https://github.com/user-attachments/assets/2fb229d3-64aa-468d-81c5-033c9725cf61)
+
+![Image](https://github.com/user-attachments/assets/4046d6cb-fb07-4b17-bb38-a33f0d87aa30)
+
+![Image](https://github.com/user-attachments/assets/89bb88e3-2e3a-4642-b77f-fbef26151a16)
+
+
 1. Exploratory Data Analysis (EDA)
 Cleaning and preprocessing data from three provided files:
 Customers.csv
